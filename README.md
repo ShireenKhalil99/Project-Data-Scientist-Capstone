@@ -71,7 +71,7 @@ The goal of this project is to address this challenge by leveraging data-driven 
 
 ## Blog 
 - For more detailes, kindly find my blog
-  (https://medium.com/@Shireen_Khalil/data-scientist-capstone-how-to-predict-user-churn-using-pyspark-bbd3e2261d4f)
+  (https://shorturl.at/SbjMU)
 
   ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
   This project is part of the Udacity Data Scientist Nanodegree (https://learn.udacity.com/). The dataset and project outline were provided by Udacity.
